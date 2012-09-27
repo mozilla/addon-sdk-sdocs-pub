@@ -1,0 +1,3 @@
+[submodule "addon-sdk-docs-1.0"]
+	path = addon-sdk-docs-1.0
+	url = git://github.com/mozilla/addon-sdk-sdocs.git
